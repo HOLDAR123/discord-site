@@ -1,0 +1,516 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@800&display=swap');
+
+header{
+    background-color: #23272a;
+    height: 626px;
+    width: 100%;
+    
+}
+.container-head{
+    z-index: 3;
+}
+.img-logo{
+    height: 80px;
+    width: 1180px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-between;
+    z-index: 3;
+   
+
+}
+.discord-logo{  
+    width: 124px;
+    height: 23.25px;
+    z-index: 3;
+    
+    
+}
+div.nav1:hover{
+    text-decoration:underline;
+}
+div.nav2:hover{
+    text-decoration:underline;
+}
+div.nav3:hover{
+    text-decoration:underline;
+}
+div.nav4:hover{
+    text-decoration:underline;
+}
+div.nav5:hover{
+    text-decoration:underline;
+}
+div.nav6:hover{
+    text-decoration:underline;
+}
+div.nav7:hover{
+    text-decoration:underline;
+}
+button.buttom{  
+    height: 38px;
+    width: 112.8px;
+    border-radius: 20px;
+    background-color: white ;
+    border:transparent solid;
+    transition: 0.5s;
+    cursor: pointer;;   
+}
+.buttom{
+    position: relative;
+    z-index: 3;
+}
+.links{
+    display: flex;
+     width: 650px;
+     height: 22px;
+     justify-content: space-evenly;
+     margin-bottom: 25px;  
+     z-index: 3; 
+ }
+ a{
+    text-decoration: none;
+    font-size: 18px;
+    
+    color: white ;
+}
+p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+}
+.button-discord{
+    position: relative;
+    color: black;
+    font-size: 13px;
+    transition: 0.2s ease-in-out;
+   
+}
+.button-discord:hover{
+    
+    font-size: 13px;
+    color: #8865f2;
+    z-index: 3;
+    transition: 0.2s ease-in-out;
+}
+h1{
+    font-family: 'Noto Sans', sans-serif;
+}
+body{
+    margin: 0;
+    
+}
+.Header-container{
+    font-size: 25px;
+    color: white;
+    height: 538px;
+    width: 1260px;
+    
+    padding: 120px   ;
+    margin: 90px 10%;
+    margin-top: -2%;
+    
+}
+.text-header{
+line-height: 60px;
+
+}
+
+.img-header{
+ width:511px;
+ height:298px; 
+ float: right;
+ 
+ margin: -12% 90px;
+ 
+ 
+}
+.container-button-discord{
+    color: black;
+    position: relative;
+    
+}
+ul{
+    margin-top: 5%;
+}
+li.Download{
+    list-style-type: none;
+    display: flex;
+    color: White;
+    text-align: center;
+
+
+}
+li.Download:before{
+    content:url(img/sss.png);
+    
+   
+    
+}
+
+button.container-button1{
+    height: 56px;
+    width: 293px;
+    border-radius: 30px;
+    background-color:#5865f2;
+    border:transparent solid;
+    cursor: pointer;
+    margin: 24px 24px 0px 0px;
+    margin-top: 1.5%;   
+    transition: 0.2s ease-in-out;
+    position: absolute;
+}
+
+button.container-button1:hover{
+    transition: 0.2s ease-in-out;
+    background-color: #7983f5;
+    
+}
+
+.text-button{
+    color: white;
+    font-family: sans-serif;
+    margin-left: 17%;
+    margin-top: 45px;
+    position: absolute;
+    font-size: 16px;
+}
+.button-container{
+    display: flex;
+}
+.container{
+    padding: 120px 0px;
+    width: 100%;
+    height: 1500px;
+    display: flex;
+    text-align: center;
+    margin-left: -15%;
+    margin-right: auto;
+    justify-content: center;
+    
+    
+}
+button.container-button-1{
+   
+    margin: 16px 0px 0px;
+    width: 150px;
+    height: 56px;
+    border-radius: 40px;
+    background-color: #23272a;
+    
+    
+}
+.container-1{
+    width: 580px;
+    height: 600px;
+    background-color: #f6f6f6;
+    justify-content: center;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.img-container1{
+ margin: 90px 0px 0px;
+}
+.downn{
+    color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.container-2{
+    width: 580px;
+    height: 600px;
+    background-color: #f6f6f6;
+    margin: 150px 20px ;
+    border-radius: 10px;
+    z-index: 1;
+    overflow: hidden;
+}
+.img-container2{
+    margin: 90px 0px 0px;
+   }
+
+.container-3{
+    width: 580px;
+    height: 600px;
+    background-color: #f6f6f6;
+    justify-content: center;
+    border-radius: 10px;
+    
+    z-index: 1;
+    margin: 620px 40px;
+    margin-left: -69.5%;
+} 
+.img-container3{
+    margin: 90px 0px 0px;
+   }
+
+
+   .container-4{
+    width: 580px;
+    height: 600px;
+    background-color: #f6f6f6;
+    justify-content: center;
+    border-radius: 10px;
+    
+    position: absolute;
+    margin: -25% 35%;
+   
+} 
+
+.img-container4{
+    margin: 90px 0px 0px;
+    
+   }
+.container-55{
+    color:  #23272a;
+}
+.container-52{
+    color:  #23272a !important;
+    
+}
+p.cointainer-52{
+    color:  #23272a !important;  
+}
+.container-5{
+        width: 500.5px;
+        height: 222px;
+        background-color: #f6f6f6;
+         text-align: left  ;
+         justify-content:left ;
+         position: absolute;
+        
+        margin: -11% -103.5%;
+        color: #23272a;
+        padding: 48px 40px;
+}
+button.container-button-5{
+    padding: 16px 32px;
+    width: 325px;
+    height: 56px;
+    border-radius: 40px;
+    background-color: #23272a;
+    position: absolute;
+}
+button.container-button-5:hover{
+    transition: 0.3s;
+    box-shadow: 0px 5px 20px 8px rgba(0, 0, 0, 0.2);
+    background-color: #36393f ;
+    
+}
+.img-but{
+    width: 20px;
+    height: 13px;
+}
+footer{
+    height: 600px;
+    width: 240vh;
+    margin-left: -25%;
+    margin-top: 30%;
+    position: absolute;
+    background-color: #23272A;
+    color: #5865f2;
+    
+    
+}
+.Footers{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;   
+    padding: 100px;
+    margin-left: 13%;
+    max-width: 1350px;
+    border-bottom:1px solid #5865f2;
+}
+body {
+    margin: 0px;
+}
+h3{
+    
+    font-size: 32px;
+   margin-top: 0%;
+   color: #5865f2;
+}
+.select{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: -3%;
+    margin-left: 13%;
+}
+select{
+    background-color: #23272A;
+    border: transparent ;
+    color: white;
+    
+}
+
+.all{
+    padding: 30px;
+   
+    
+}
+
+.discordss{
+    margin-left: 23%;
+    position: absolute;
+
+}
+.Russian{
+    color: white;
+    margin: 8px;
+    
+}
+.icons-footer{
+    line-height: 80px;
+    display: flex;
+    justify-content: space-between;
+    max-width:170px;
+    margin-left: 8%;
+}
+.tec{
+    color: white;;
+}
+
+.button-discord1{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+}
+.button-discord1:hover{
+    font-size: 13px;
+    color: #8865f2;
+    
+}
+
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: white ;
+}
+
+
+p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+}
+h1,h2,h3,h4,h5{
+    font-family: 'Noto Sans', sans-serif;
+}
+.tec:hover{
+  cursor: pointer;
+}
+.t:hover{
+  text-decoration: underline;
+}
+.p:hover{
+    text-decoration: underline;
+  }
+  .c:hover{
+    text-decoration: underline;
+  }
+  .g:hover{
+    text-decoration: underline;
+  }
+  .A:hover{
+    text-decoration: underline;
+  }
+  .L:hover{
+    text-decoration: underline;
+  }
+  .M:hover{
+    text-decoration: underline;
+}
+
+
+  .s:hover{
+    text-decoration: underline;
+  }
+  .d:hover{
+    text-decoration: underline;
+  }
+  .f:hover{
+    text-decoration: underline;
+  }
+  .b:hover{
+    text-decoration: underline;
+  }
+  .sa:hover{
+    text-decoration: underline;
+  }
+  .su:hover{
+    text-decoration: underline;
+  }
+  .col:hover{
+    text-decoration: underline;
+  }
+
+  .abo:hover{
+    text-decoration: underline;
+  }
+  .job:hover{
+    text-decoration: underline;
+  }
+  .brand:hover{
+    text-decoration: underline;
+  }
+  .new:hover{
+    text-decoration: underline;
+  }
+
+  .status:hover{
+    text-decoration: underline;
+  }
+
+  .Prod:hover{
+    text-decoration: underline;
+  }
+  .down:hover{
+    text-decoration: underline;
+  }
+  .Nitro:hover{
+    text-decoration: underline;
+  }
+
+  .img-textp2{
+    font-size: 20px;
+}
+
+.discord-logo{  
+    width: 124px;
+    height: 23.25px;
+    z-index: 3;
+}
+
+
+.buttomss:hover{
+    background-color: #7983f5;
+    box-shadow: 0 8px 15px 0 rgb(0 0 0 / 20%);
+    
+}
+
+
+button.buttomss{  
+    height: 38px;
+    width: 112.8px;
+    border-radius: 20px;
+    background-color: #5865f2 ;
+    border:transparent solid;
+    transition: 0.5s;
+    cursor: pointer;;   
+    margin-left: 50%;
+    margin-top: -7%;
+}
+.buttomss:hover{
+    background-color: #7983f5;
+    box-shadow: 0 8px 15px 0 rgb(0 0 0 / 20%);
+}
+
+.button-discord1:hover{
+    color: white;
+}
+@media  (min-width: 768px){
+    
+}
